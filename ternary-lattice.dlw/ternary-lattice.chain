@@ -4,6 +4,6 @@ slug  : ternary-lattice
 seal  : 0a3b9d61574355cff9bf6450447fdc43a3e22edd342aa2c058f5d79aa0a88f72
 prev  : 70b0de95575afe08b86aa56213b225c6d09cc308f4c991b235f2ee7d658f13c0
 link  : 2e33b9ee4d8bcbd57bab32b7c0c436aca400f1e1c49e7437ca4f4fa43de985bd
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
